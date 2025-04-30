@@ -1,6 +1,6 @@
 # Embedded-9
 
-main program : modules/led.c
+Main program : modules/led.c
 
 # How to run :
 ## requirements : 
